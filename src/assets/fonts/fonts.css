@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('../assets/fonts/centurygothic.woff2') format('woff2'),
+         url('../assets/fonts/centurygothic.woff') format('woff');
+  }
+  
